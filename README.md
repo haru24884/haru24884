@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haru
-- I’m interested in design and naking somethig fascinated!
+- I’m interested in design and making somethig fascinated!
 
 <!---
 haru24884/haru24884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
